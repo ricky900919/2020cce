@@ -77,5 +77,5 @@ int main()
   else if(n<80||n==60)printf("c");
   else printf("f");
 }
-
+```
 
