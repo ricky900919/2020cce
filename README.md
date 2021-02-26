@@ -67,6 +67,7 @@ int main()
 
 
 ## 第四個程式 分式化簡
+```c
 #include <stdio.h>
 int main()
 {
